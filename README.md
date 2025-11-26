@@ -45,7 +45,7 @@
 | [Warp](https://www.warp.dev/)                             | cli                        |                                       |
 | [Windsurf](https://windsurf.com/)                         | ide             | Acquired by Cognition                |
 | [Zed](https://zed.dev/)                                   | ide                        | Technically a code editor, not an IDE |
-| Add here!                                                 |                            |                                       |
+| [AI-Autocomplete](https://marketplace.visualstudio.com/items?itemName=fsiovn.ai-autocomplete)|vscode-extension|Alternative inline suggestion for GitHub Copilot|
 
 Please open a PR if you’d like to add a new AI coding tool you’ve been enjoying or to propose a correction!
 
