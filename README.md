@@ -10,7 +10,7 @@
 
 # Awesome Coding AI
 
-> *Hit the usage limit on your go-to AI coding tool again? New ones are popping up all the time, so give one of these a shot!*
+> *Hit the usage limit on your go-to AI coding tool again? Give one of these a shot!*
 
 | Name                                                      | Tags                       | Notes                                 |
 |-----------------------------------------------------------|----------------------------|---------------------------------------|
