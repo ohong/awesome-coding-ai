@@ -36,7 +36,7 @@
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | cli                        |                                       |
 | [Terragon](https://www.terragonlabs.com/)                 | gui                        |                                       |
 | [v0](https://v0.app/)                                     | app-builder                | Built by Vercel                       |
-| [VibeKanban](https://www.vibekanban.com/)                 | gui                        |                                       |
+| [Vibe Kanban](https://www.vibekanban.com/)                 | gui                        |                                       |
 | [Warp](https://www.warp.dev/)                             | cli                        |                                       |
 | [Windsurf](https://windsurf.com/)                         | own-model, ide             | Now owned by Cognition                |
 | [Zed](https://zed.dev/)                                   | ide                        | Technically a code editor, not an IDE |

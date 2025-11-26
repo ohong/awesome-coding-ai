@@ -5,7 +5,7 @@ const REPO_URL = "https://github.com/ohong/awesome-coding-ai";
 
 function Tag({ label }: { label: string }) {
   return (
-    <span className="inline-flex items-center px-2 py-0.5 text-[11px] font-medium uppercase tracking-wide border border-neutral-400 text-neutral-600">
+    <span className="inline-flex items-center px-2 py-0.5 text-[11px] font-medium uppercase tracking-wide border border-neutral-400 text-neutral-600 bg-neutral-100">
       {label}
     </span>
   );
@@ -17,7 +17,7 @@ function ToolRow({ tool }: { tool: Tool }) {
       href={tool.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="group grid grid-cols-[minmax(140px,200px)_1fr_auto] items-center gap-6 py-5 border-t border-dashed border-neutral-300 transition-colors hover:bg-neutral-100"
+      className="group relative grid grid-cols-[minmax(140px,200px)_1fr_auto] items-center gap-6 py-5 border-t border-neutral-300 transition-all hover:border-dashed [&:hover+a]:border-dashed"
     >
       {/* Tags column */}
       <div className="flex flex-wrap gap-1.5">
@@ -30,7 +30,7 @@ function ToolRow({ tool }: { tool: Tool }) {
 
       {/* Name & Notes column */}
       <div className="flex flex-col gap-0.5">
-        <span className="text-[15px] font-medium text-neutral-900 group-hover:text-neutral-900">
+        <span className="text-[15px] font-medium text-neutral-900 group-hover:text-accent transition-colors">
           {tool.name}
         </span>
         {tool.notes && (
@@ -78,8 +78,8 @@ export default function Home() {
               />
             </a>
           </div>
-          <p className="text-neutral-500 text-[15px] max-w-2xl font-mono">
-            Hit the usage limit on your go-to AI coding tool again? Give one of these a shot!
+          <p className="text-neutral-500 text-[15px] font-mono whitespace-nowrap">
+            Hit the usage limit on your AI coding tool again? Give one of these a shot!
           </p>
         </header>
 
