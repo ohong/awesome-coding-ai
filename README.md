@@ -17,28 +17,33 @@
 | [Amp](https://ampcode.com/)                               | cli                        | Built by Sourcegraph                  |
 | [Antigravity](https://antigravity.google/)                | ide                        | Built by Google                       |
 | [Anything](https://www.createanything.com/)               | app-builder                |                                       |
+| [Bolt AI](https://bolt.new/)                              | app-builder                |                                       |
 | [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic                    |
 | [Cline](https://cline.bot/)                               |                            |                                       |
 | [Codex](https://openai.com/codex/)                        | own-model, cli, background | Built by OpenAI                       |
 | [Conductor](https://conductor.build/)                     | gui                        |                                       |
 | [CTO.new](https://cto.new/)                               | gui                        |                                       |
-| [Cursor](https://cursor.com/)                             | own-model, ide, background |                                       |
+| [Cursor](https://cursor.com/)                             | ide, background            |                                       |
 | [Devin](https://devin.ai/)                                | background                 | Built by Cognition                    |
-| [Emergent](https://app.emergent.sh/landing/)              | app-builder                |                                       |
-| [Factory](https://factory.ai/)                            | cli                        |                                       |
-| [Gemini CLI](https://geminicli.com/)                      | cli                        |                                       |
+| [Emergent](https://emergent.sh/)                          | app-builder                |                                       |
+| [Factory](https://factory.ai/)                            | cli, background            |                                       |
+| [Gemini CLI](https://geminicli.com/)                      | own-model, cli             |                                       |
 | [GitHub Copilot](https://github.com/features/copilot)     |                            |                                       |
 | [Google AI Studio](https://aistudio.google.com/)          | app-builder                |                                       |
 | [Jules](https://jules.google/)                            | background                 | Async coding agent from Google Labs   |
+| [Kilo Code](https://kilo.ai/)                             | oss                        |                                       |
 | [Kiro](https://kiro.dev/)                                 | ide                        | Built by Amazon Web Services          |
 | [Lovable](https://lovable.dev/)                           | app-builder                |                                       |
+| [Magic Patterns](https://www.magicpatterns.com/)          | app-builder                |                                       |
 | [Orchids](https://www.orchids.app/)                       | app-builder                |                                       |
+| [Replit](https://replit.com/)                             | app-builder                |                                       |
+| [Roo Code](https://roocode.com/)                          | oss                        |                                       |
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | cli                        |                                       |
 | [Terragon](https://www.terragonlabs.com/)                 | gui                        |                                       |
 | [v0](https://v0.app/)                                     | app-builder                | Built by Vercel                       |
-| [Vibe Kanban](https://www.vibekanban.com/)                 | gui                        |                                       |
+| [Vibe Kanban](https://www.vibekanban.com/)                | gui                        |                                       |
 | [Warp](https://www.warp.dev/)                             | cli                        |                                       |
-| [Windsurf](https://windsurf.com/)                         | own-model, ide             | Now owned by Cognition                |
+| [Windsurf](https://windsurf.com/)                         | ide             | Acquired by Cognition                |
 | [Zed](https://zed.dev/)                                   | ide                        | Technically a code editor, not an IDE |
 | Add here!                                                 |                            |                                       |
 
@@ -49,5 +54,5 @@ Note: The AI coding space moves quickly and the boundaries between different cat
 - **own-model**: The product uses their own proprietary LLMs (in addition to others)
 - **CLI**: Coding agent used in the terminal via command line interface (e.g. Claude Code, Codex, Gemini)
 - **background**: Also called async agents, where the execution can take place remotely without the human engineer present & actively steering (e.g. Devin)
-- **app-builders**: All-in-one “vibe coding” platforms, typically a web interface that offers no-code UX (e.g. Lovable, v0)
+- **app-builder**: All-in-one “vibe coding” platforms, typically a web interface that offers no-code UX (e.g. Lovable, v0)
 - **GUI**: Graphic user interface that allows the user to control one or more coding agents in parallel. Sometimes called coding agent orchestrators (e.g. Conductor).
