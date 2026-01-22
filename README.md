@@ -18,8 +18,10 @@
 | [Antigravity](https://antigravity.google/)                | ide                        | Built by Google                       |
 | [Anything](https://www.createanything.com/)               | app-builder                |                                       |
 | [Bolt AI](https://bolt.new/)                              | app-builder                |                                       |
+| [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code) | cli          |                                       |
 | [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic                    |
 | [Cline](https://cline.bot/)                               |                            |                                       |
+| [cmux](https://www.cmux.dev/)                             | gui                        |                                       |
 | [Codex](https://openai.com/codex/)                        | own-model, cli, background | Built by OpenAI                       |
 | [Conductor](https://conductor.build/)                     | gui                        |                                       |
 | [CTO.new](https://cto.new/)                               | gui                        |                                       |
@@ -34,10 +36,12 @@
 | [Kilo Code](https://kilo.ai/)                             | oss                        |                                       |
 | [Kiro](https://kiro.dev/)                                 | ide                        | Built by Amazon Web Services          |
 | [Lovable](https://lovable.dev/)                           | app-builder                |                                       |
+| [OpenCode](https://opencode.ai/)                          | cli, oss                   |                                       |
 | [Magic Patterns](https://www.magicpatterns.com/)          | app-builder                |                                       |
 | [Orchids](https://www.orchids.app/)                       | app-builder                |                                       |
 | [Replit](https://replit.com/)                             | app-builder                |                                       |
 | [Roo Code](https://roocode.com/)                          | oss                        |                                       |
+| [Scott AI](https://www.tryscott.ai/)                      | gui                        |                                       |
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | cli                        |                                       |
 | [Terragon](https://www.terragonlabs.com/)                 | gui                        |                                       |
 | [v0](https://v0.app/)                                     | app-builder                | Built by Vercel                       |
@@ -45,7 +49,8 @@
 | [Warp](https://www.warp.dev/)                             | cli                        |                                       |
 | [Windsurf](https://windsurf.com/)                         | ide             | Acquired by Cognition                |
 | [Zed](https://zed.dev/)                                   | ide                        | Technically a code editor, not an IDE |
-| [AI-Autocomplete](https://marketplace.visualstudio.com/items?itemName=fsiovn.ai-autocomplete)|vscode-extension|Alternative inline suggestion for GitHub Copilot|
+| [AI-Autocomplete](https://marketplace.visualstudio.com/items?itemName=fsiovn.ai-autocomplete)|vscode-extension| Alternative inline suggestion for GitHub Copilot|
+| *[Your Tool Here](https://example.com/)*                     | *[tags]*                   | *[notes]*                              |
 
 Please open a PR if you’d like to add a new AI coding tool you’ve been enjoying or to propose a correction!
 
