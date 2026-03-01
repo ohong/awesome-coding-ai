@@ -50,6 +50,7 @@
 | [Windsurf](https://windsurf.com/)                         | ide             | Acquired by Cognition                |
 | [Zed](https://zed.dev/)                                   | ide                        | Technically a code editor, not an IDE |
 | [AI-Autocomplete](https://marketplace.visualstudio.com/items?itemName=fsiovn.ai-autocomplete)|vscode-extension| Alternative inline suggestion for GitHub Copilot|
+| [OpenPaw](https://github.com/daxaur/openpaw)                 | cli, oss                   | Turns Claude Code into a personal assistant with 38 skills |
 | *[Your Tool Here](https://example.com/)*                     | *[tags]*                   | *[notes]*                              |
 
 Please open a PR if you’d like to add a new AI coding tool you’ve been enjoying or to propose a correction!
