@@ -41,9 +41,9 @@
 | [Orchids](https://www.orchids.app/)                       | app-builder                |                                       |
 | [Replit](https://replit.com/)                             | app-builder                |                                       |
 | [Roo Code](https://roocode.com/)                          | oss                        |                                       |
+| [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | cli                        |                                       |
 | [Scott AI](https://www.tryscott.ai/)                      | gui                        |                                       |
 | [Shep](https://github.com/shep-ai/cli)                    | cli, gui                   |                                       |
-| [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | cli                        |                                       |
 | [Terragon](https://www.terragonlabs.com/)                 | gui                        |                                       |
 | [v0](https://v0.app/)                                     | app-builder                | Built by Vercel                       |
 | [Vibe Kanban](https://www.vibekanban.com/)                | gui                        |                                       |
