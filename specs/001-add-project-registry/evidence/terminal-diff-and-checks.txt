@@ -1,0 +1,22 @@
+=== git diff showing Shep entry added to README.md ===
+
+diff --git a/README.md b/README.md
+index 135362b..021b3fb 100644
+--- a/README.md
++++ b/README.md
+@@ -42,6 +42,7 @@
+ | [Replit](https://replit.com/)                             | app-builder                |                                       |
+ | [Roo Code](https://roocode.com/)                          | oss                        |                                       |
+ | [Scott AI](https://www.tryscott.ai/)                      | gui                        |                                       |
++| [Shep](https://github.com/shep-ai/cli)                    | cli, gui                   |                                       |
+ | [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | cli                        |                                       |
+ | [Terragon](https://www.terragonlabs.com/)                 | gui                        |                                       |
+ | [v0](https://v0.app/)                                     | app-builder                | Built by Vercel                       |
+
+=== Lint check output (no errors) ===
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+
+=== Build compilation check ===
+Note: Build has a pre-existing useContext error unrelated to this change.
+The dev server renders the page correctly (see screenshots).
