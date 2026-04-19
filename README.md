@@ -58,6 +58,8 @@ Note: The AI coding space moves quickly and the boundaries between different cat
 - **IDE**: The product is primarily an IDE with a built-in agent (e.g. Cursor, Windsurf). Most other coding agents will be integrated into an IDE not owned by them (e.g. Cline, GitHub Copilot)
 - **own-model**: The product uses their own proprietary LLMs (in addition to others)
 - **CLI**: Coding agent used in the terminal via command line interface (e.g. Claude Code, Codex, Gemini)
+${ASB}
+${OSF}
 - **background**: Also called async agents, where the execution can take place remotely without the human engineer present & actively steering (e.g. Devin)
 - **app-builder**: All-in-one “vibe coding” platforms, typically a web interface that offers no-code UX (e.g. Lovable, v0)
 - **GUI**: Graphic user interface that allows the user to control one or more coding agents in parallel. Sometimes called coding agent orchestrators (e.g. Conductor).
