@@ -14,6 +14,7 @@
 
 | Name                                                      | Tags                       | Notes                                 |
 |-----------------------------------------------------------|----------------------------|---------------------------------------|
+| [agenttrace](https://github.com/luoyuctl/agenttrace)      | cli                        | TUI observability for AI coding agent sessions |
 | [Amp](https://ampcode.com/)                               | cli                        | Built by Sourcegraph                  |
 | [Antigravity](https://antigravity.google/)                | ide                        | Built by Google                       |
 | [Anything](https://www.createanything.com/)               | app-builder                |                                       |
