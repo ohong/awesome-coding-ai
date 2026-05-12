@@ -39,6 +39,7 @@
 | [OpenCode](https://opencode.ai/)                          | cli, oss                   |                                       |
 | [Magic Patterns](https://www.magicpatterns.com/)          | app-builder                |                                       |
 | [Orchids](https://www.orchids.app/)                       | app-builder                |                                       |
+| [Parallel Code](https://parallelcode.app/)                 | gui                        | Desktop GUI for parallel CLI coding agents |
 | [Replit](https://replit.com/)                             | app-builder                |                                       |
 | [Roo Code](https://roocode.com/)                          | oss                        |                                       |
 | [Scott AI](https://www.tryscott.ai/)                      | gui                        |                                       |
