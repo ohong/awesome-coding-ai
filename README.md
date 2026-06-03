@@ -37,6 +37,7 @@
 | [Kiro](https://kiro.dev/)                                 | ide                        | Built by Amazon Web Services          |
 | [Lovable](https://lovable.dev/)                           | app-builder                |                                       |
 | [OpenCode](https://opencode.ai/)                          | cli, oss                   |                                       |
+| [OpenCode Mobile](https://github.com/dzianisv/opencode-mobile) | gui, oss              | Android client for OpenCode; control your self-hosted agent from your phone |
 | [Magic Patterns](https://www.magicpatterns.com/)          | app-builder                |                                       |
 | [Orchids](https://www.orchids.app/)                       | app-builder                |                                       |
 | [Replit](https://replit.com/)                             | app-builder                |                                       |
