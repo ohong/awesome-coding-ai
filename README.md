@@ -68,6 +68,7 @@
 | [Mistral Vibe](https://mistral.ai/products/vibe/code/) | own-model, cli, oss | Built by Mistral | Devstral 2 API free at launch |
 | [Moxby](https://moxby.com/) | gui | Wraps Claude Code, Codex & Gemini | |
 | [Mux](https://github.com/coder/mux) | gui, oss | Built by Coder | |
+| [Nanocoder](https://github.com/Nano-Collective/nanocoder) | cli, oss | Local-first, bring-your-own-model agent built by a community collective | |
 | [Neovate](https://neovateai.dev/) | cli, oss | | |
 | [Ona](https://ona.com/) | background | Formerly Gitpod | $10 free credits to start |
 | [OpenClaw](https://openclaw.ai/) | oss | Personal agent that also codes | |
