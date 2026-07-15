@@ -15,6 +15,7 @@
 | Name | Tags | Notes | Promo |
 |------|------|-------|-------|
 | [AdaL](https://sylph.ai/) | cli | Self-evolving agent by SylphAI | |
+| [Agent Island](https://agent-island.dev/) | oss | Status companion for Claude Code and Codex on macOS and Windows | |
 | [AI-Autocomplete](https://marketplace.visualstudio.com/items?itemName=fsiovn.ai-autocomplete) | extension | Alternative inline suggestion for GitHub Copilot | |
 | [AiderDesk](https://github.com/hotovo/aider-desk) | gui, oss | Desktop GUI for Aider | |
 | [Amp](https://ampcode.com/) | cli | Built by Sourcegraph | $10/day free usage |
