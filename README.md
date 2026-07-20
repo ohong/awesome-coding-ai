@@ -23,6 +23,7 @@
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | oss | Chatbot platform with agent skills | |
 | [Augment Code](https://www.augmentcode.com/) | cli | | 30k-credit free trial |
 | [Autohand Code](https://autohand.ai/code/) | cli, oss | Free with your own keys or local models | |
+| [Better Agent](https://github.com/ofekron/better-agent) | gui | Multi-provider workspace for parallel coding-agent sessions | |
 | [Bolt AI](https://bolt.new/) | app-builder | | |
 | [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code) | cli | | |
 | [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic | Fable 5 included in plans until Jun 22 |
