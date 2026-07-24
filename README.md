@@ -53,6 +53,7 @@
 | [Eve](https://vercel.com/blog/introducing-eve) | cli | Agent framework built by Vercel | |
 | [Firebender](https://firebender.com/) | extension | Agent for Android Studio | |
 | [ForgeCode](https://forgecode.dev/) | cli | | |
+| [fractal](https://github.com/plasma-ai/fractal) | cli, oss | Hierarchical coding-agent orchestrator | |
 | [Gemini CLI](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/) | own-model, cli | Consumer service retired Jun 18, 2026; use Antigravity CLI | |
 | [GitHub Copilot](https://github.com/features/copilot) | | | [Existing Business/Enterprise customers get higher included credits through Sep 1](https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises) |
 | [Google AI Studio](https://aistudio.google.com/) | app-builder | | |
