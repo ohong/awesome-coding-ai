@@ -27,6 +27,7 @@
 | [Augment](https://www.augmentcode.com/) | cli | | [30,000-credit trial (card required)](https://www.augmentcode.com/blog/augment-codes-pricing-is-changing) |
 | [Autohand Code CLI](https://autohand.ai/code/) | cli, oss | Free with your own keys or local models | |
 | [Better Agent](https://github.com/ofekron/better-agent) | gui | Local workspace for parallel coding-agent CLI sessions | |
+| [BitFun](https://github.com/GCWing/BitFun) | gui, cli, oss | Cross-platform desktop coding and computer-use agent | |
 | [Bolt AI](https://bolt.new/) | app-builder | | |
 | [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code) | cli | | |
 | [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic | [50% more weekly usage for eligible plans through Aug 19](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion) |
