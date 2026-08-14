@@ -101,6 +101,7 @@
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev) | cli | | [30-day Standard upgrade trial with 2,000 credits/mo](https://support.atlassian.com/subscriptions-and-billing/docs/how-billing-works-for-rovo-dev-standard/) |
 | [Scott AI](https://www.tryscott.ai/) | gui | | |
 | [Shep](https://github.com/shep-ai/shep) | cli, gui, oss | Local-first orchestrator for coding-agent CLIs in parallel worktrees | |
+| [Sillage](https://github.com/MarlBurroW/sillage) | gui, oss | Self-hosted mobile-first web UI that drives the native Claude Code and Codex CLIs (replaces the terminal, not the agent); server-side session journal, full-text search, IDE panel, own MCP server, installable PWA. Single Docker container | |
 | [Tabnine](https://www.tabnine.com/) | extension | | |
 | [Tabnine CLI](https://www.tabnine.com/) | cli | Tabnine's terminal agent | |
 | [Terragon](https://www.terragonlabs.com/) | gui | | |
