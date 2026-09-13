@@ -87,7 +87,7 @@
 | [OpenCode Mobile](https://github.com/dzianisv/opencode-mobile) | gui, oss | Android client for self-hosted OpenCode coding sessions | |
 | [OpenHands](https://www.openhands.dev/) | background, oss | | |
 | [OpenPaw](https://github.com/daxaur/openpaw) | oss | Setup wizard that turns Claude Code into a personal assistant | |
-| [Orchestrator](https://zachealy1.github.io/orchestrator/) | gui, oss | Free macOS 15+ workspace for Codex, Kanban tasks and code review; uses your own supported Codex account | |
+| [Orchestrator](https://zachealy1.github.io/orchestrator/) | gui, oss | MIT macOS 15+ workspace for Codex, Kanban and code review; own Codex account required. [Apple Silicon/Intel public beta (not notarized)](https://github.com/zachealy1/orchestrator/releases/latest) | |
 | [Orchids](https://www.orchids.app/) | app-builder | | |
 | [Parallel Code](https://parallelcode.app/) | gui, oss | Desktop workspace for parallel coding-agent CLIs in isolated worktrees | |
 | [Pi](https://github.com/badlogic/pi-mono) | cli, oss | | |
