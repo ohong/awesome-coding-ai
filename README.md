@@ -20,6 +20,7 @@
 | [AI-Autocomplete](https://github.com/fsiovn/ai-autocomplete) | extension, oss | Lightweight BYOK inline code autocomplete for VS Code | |
 | [AiderDesk](https://github.com/hotovo/aider-desk) | gui, oss | Desktop GUI for Aider | |
 | [Amp](https://ampcode.com/) | cli | Built by Sourcegraph | |
+| [antiburn](https://antiburn.com/) | oss | Local desktop app that checks coding-agent sessions for common causes of token burn | |
 | [Antigravity](https://antigravity.google/) | ide | Built by Google | |
 | [Antigravity CLI](https://antigravity.google/) | cli | Google terminal agent; successor to Gemini CLI | |
 | [Anything](https://www.createanything.com/) | app-builder | | |
