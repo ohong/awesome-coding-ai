@@ -91,6 +91,7 @@
 | [Parallel Code](https://parallelcode.app/) | gui, oss | Desktop workspace for parallel coding-agent CLIs in isolated worktrees | |
 | [Pi](https://github.com/badlogic/pi-mono) | cli, oss | | |
 | [Pochi](https://getpochi.com/) | extension, oss | Built by TabbyML | |
+| [Podium](https://podium.do/) | gui, oss | Take ideas from conversation to coordinated work with coding agents through a task system shared by agents and developers | |
 | [PromptScript](https://getpromptscript.dev/) | oss | Compiles .prs prompts to agent configs | |
 | [Qoder](https://qoder.com/) | ide | Built by Alibaba | [200 free Ultimate calls for Personal plans through Jul 30](https://docs.qoder.com/events/ultimatefreecalls) |
 | [Qoder CN](https://www.alibabacloud.com/help/en/lingma/billing-description) | ide | Alibaba's regional Qoder product | |
