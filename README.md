@@ -103,6 +103,7 @@
 | [Shep](https://github.com/shep-ai/shep) | cli, gui, oss | Local-first orchestrator for coding-agent CLIs in parallel worktrees | |
 | [Tabnine](https://www.tabnine.com/) | extension | | |
 | [Tabnine CLI](https://www.tabnine.com/) | cli | Tabnine's terminal agent | |
+| [Tale](https://github.com/tale-project/tale) | gui, oss | Self-hosted project workspace for coding-agent tasks, persistent sandboxes, and shared review | |
 | [Terragon](https://www.terragonlabs.com/) | gui | | |
 | [Terramind](https://nucleus.terramind.com/) | cli | | |
 | [Tinycloud](https://tinycloud.sh/) | cli | Agent CLI for deep video work | |
