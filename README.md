@@ -48,6 +48,7 @@
 | [Devin](https://devin.ai/) | background | Built by Cognition | |
 | [Devin for Terminal](https://docs.devin.ai/desktop/models) | cli | Cognition's terminal agent | [SWE-1.7 free preview through Aug 8](https://docs.devin.ai/desktop/models) |
 | [Dexto](https://github.com/truffle-ai/dexto) | cli, oss | Agent harness by Truffle AI | |
+| [Drevon](https://www.drevon.dev) | gui | Mac app that turns Claude Code or Codex into a GTM operator across your stack, in your own browser | |
 | [Droid](https://factory.ai/) | cli, background | Factory's agent | |
 | [Emergent](https://emergent.sh/) | app-builder | | |
 | [Eve](https://vercel.com/blog/introducing-eve) | cli | Agent framework built by Vercel | |
