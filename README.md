@@ -101,6 +101,7 @@
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev) | cli | | [30-day Standard upgrade trial with 2,000 credits/mo](https://support.atlassian.com/subscriptions-and-billing/docs/how-billing-works-for-rovo-dev-standard/) |
 | [Scott AI](https://www.tryscott.ai/) | gui | | |
 | [Shep](https://github.com/shep-ai/shep) | cli, gui, oss | Local-first orchestrator for coding-agent CLIs in parallel worktrees | |
+| [Switchdesk](https://switchdesk.dev/) | gui, oss | Desktop editor that runs Claude Code, Codex, Copilot, Cursor and Gemini through their own CLIs | |
 | [Tabnine](https://www.tabnine.com/) | extension | | |
 | [Tabnine CLI](https://www.tabnine.com/) | cli | Tabnine's terminal agent | |
 | [Terragon](https://www.terragonlabs.com/) | gui | | |
