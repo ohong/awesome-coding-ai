@@ -52,6 +52,7 @@
 | [Emergent](https://emergent.sh/) | app-builder | | |
 | [Eve](https://vercel.com/blog/introducing-eve) | cli | Agent framework built by Vercel | |
 | [Firebender](https://firebender.com/) | extension | Agent for Android Studio | |
+| [FlowDeck Studio](https://flowdeck.studio/) | gui | Native macOS workspace for parallel Claude Code & Codex sessions on iOS/macOS apps, each with its own worktree and simulator | |
 | [ForgeCode](https://forgecode.dev/) | cli | | |
 | [Gemini CLI](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/) | own-model, cli | Consumer service retired Jun 18, 2026; use Antigravity CLI | |
 | [GitHub Copilot](https://github.com/features/copilot) | | | [Existing Business/Enterprise customers get higher included credits through Sep 1](https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-organizations-and-enterprises) |
