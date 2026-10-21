@@ -81,6 +81,7 @@
 | [Mux](https://github.com/coder/mux) | gui, oss | Built by Coder | |
 | [Nanocoder](https://github.com/Nano-Collective/nanocoder) | cli, oss | Local-first, multi-provider terminal coding agent | |
 | [Neovate](https://neovateai.dev/) | cli, oss | | |
+| [OliveCode](https://olivecode.dev/) | cli, oss | OpenCode-based public preview for free cloud models and local Ollama; provider quotas and hardware limits apply | |
 | [Ona](https://ona.com/) | background | Formerly Gitpod | [Up to $200/mo for approved OSS maintainers and contributors](https://ona.com/open-source) |
 | [OpenClaw](https://openclaw.ai/) | oss | Personal agent that also codes | |
 | [OpenCode](https://opencode.ai/) | cli, oss | | [6 Zen models free for a limited time](https://opencode.ai/docs/zen/) |
