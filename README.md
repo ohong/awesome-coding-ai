@@ -16,6 +16,7 @@
 |------|------|-------|-------|
 | [AdaL](https://sylph.ai/) | cli | Self-evolving agent by SylphAI | |
 | [Agent Island](https://www.agent-island.dev/) | oss | Local status companion for Claude Code and Codex | |
+| [agent-qa](https://vostride.com/) | | Natural-language web and mobile testing with advanced memidex memory, self-improvement, and MCP/skills for coding agents | |
 | [agenttrace](https://github.com/luoyuctl/agenttrace) | cli, oss | Local TUI and reports for coding-agent session observability | |
 | [AI-Autocomplete](https://github.com/fsiovn/ai-autocomplete) | extension, oss | Lightweight BYOK inline code autocomplete for VS Code | |
 | [AiderDesk](https://github.com/hotovo/aider-desk) | gui, oss | Desktop GUI for Aider | |
