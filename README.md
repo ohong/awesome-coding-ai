@@ -47,6 +47,7 @@
 | [Deep Agents](https://github.com/langchain-ai/deepagents) | oss | Built by LangChain | |
 | [Devin](https://devin.ai/) | background | Built by Cognition | |
 | [Devin for Terminal](https://docs.devin.ai/desktop/models) | cli | Cognition's terminal agent | [SWE-1.7 free preview through Aug 8](https://docs.devin.ai/desktop/models) |
+| [DevIntern](https://devintern.com/) | cli, background | Self-hosted worker that turns tracker tickets into PRs with your own coding agent | |
 | [Dexto](https://github.com/truffle-ai/dexto) | cli, oss | Agent harness by Truffle AI | |
 | [Droid](https://factory.ai/) | cli, background | Factory's agent | |
 | [Emergent](https://emergent.sh/) | app-builder | | |
