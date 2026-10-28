@@ -19,7 +19,7 @@
 | [agenttrace](https://github.com/luoyuctl/agenttrace) | cli, oss | Local TUI and reports for coding-agent session observability | |
 | [AI-Autocomplete](https://github.com/fsiovn/ai-autocomplete) | extension, oss | Lightweight BYOK inline code autocomplete for VS Code | |
 | [AiderDesk](https://github.com/hotovo/aider-desk) | gui, oss | Desktop GUI for Aider | |
-| [Amp](https://ampcode.com/) | cli | Built by Sourcegraph | |
+| [Amp](https://ampcode.com/) | cli, gui, background | Built by Sourcegraph; supports isolated cloud orbs, desktop & web app, and multi-thread workspaces | [Active redeem codes ($5–$25 credits) & student discount](https://sharecodekit.com/amp) |
 | [Antigravity](https://antigravity.google/) | ide | Built by Google | |
 | [Antigravity CLI](https://antigravity.google/) | cli | Google terminal agent; successor to Gemini CLI | |
 | [Anything](https://www.createanything.com/) | app-builder | | |
