@@ -29,7 +29,7 @@
 | [Better Agent](https://github.com/ofekron/better-agent) | gui | Local workspace for parallel coding-agent CLI sessions | |
 | [Bolt AI](https://bolt.new/) | app-builder | | |
 | [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code) | cli | | |
-| [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic | [50% more weekly usage for eligible plans through Aug 19](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion) |
+| [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic | |
 | [Cline](https://cline.bot/) | | | |
 | [cmux](https://www.cmux.dev/) | gui | | |
 | [Code Studio](https://www.syncfusion.com/code-studio/) | ide | Built by Syncfusion | |
@@ -69,7 +69,7 @@
 | [Kimchi](https://kimchi.dev/) | cli, oss | Coding platform for open-source models | |
 | [Kimi Code CLI](https://www.kimi.com/code/docs/en/) | own-model, cli, oss | Built by Moonshot AI | |
 | [Kiro](https://kiro.dev/) | ide | Built by Amazon Web Services | |
-| [Kiro CLI](https://kiro.dev/) | cli | Built by Amazon Web Services | [Eligible AWS startups: complimentary Pro+ and 1 year of promo credits; apply by Jul 31](https://kiro.dev/startups/terms/) |
+| [Kiro CLI](https://kiro.dev/) | cli | Built by Amazon Web Services | [Eligible AWS startups: complimentary Pro+ and 1 year of promo credits; apply by Dec 31](https://kiro.dev/startups/terms/) |
 | [Kode](https://github.com/shareAI-lab/kode) | cli, oss | | |
 | [Lingma](https://lingma.aliyun.com/) | extension | Renamed to Qoder CN | |
 | [Loaf](https://github.com/levifig/loaf) | cli, oss | Agent harness and framework | |
