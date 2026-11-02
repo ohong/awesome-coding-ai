@@ -77,6 +77,7 @@
 | [Magic Patterns](https://www.magicpatterns.com/) | app-builder | | |
 | [MCPJam](https://www.mcpjam.com/) | oss | MCP testing platform with skills support | |
 | [Mistral Vibe](https://mistral.ai/products/vibe/code/) | own-model, cli, oss | Built by Mistral | |
+| [Mixdog](https://github.com/tribgames/mixdog) | gui, oss | Desktop coding agent: a lead model plans, cheaper models search and edit | |
 | [Moxby](https://moxby.com/) | gui | Wraps Claude Code, Codex & Gemini | |
 | [Mux](https://github.com/coder/mux) | gui, oss | Built by Coder | |
 | [Nanocoder](https://github.com/Nano-Collective/nanocoder) | cli, oss | Local-first, multi-provider terminal coding agent | |
