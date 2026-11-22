@@ -110,6 +110,7 @@
 | [Trae CN](https://www.trae.cn/) | ide | ByteDance's regional Trae product | |
 | [Universal](https://github.com/vercel-labs/skills#supported-agents) | | Generic adapter target for unsupported agents | |
 | [v0](https://v0.app/) | app-builder | Built by Vercel | |
+| [Valo](https://getvalo.dev) | gui | Desktop workspace that runs Claude Code, Codex, Gemini, Cursor and GLM side by side on Windows, macOS and Linux, with per-tool permissions. | |
 | [Vibe Kanban](https://www.vibekanban.com/) | gui | | |
 | [Warp](https://www.warp.dev/) | cli | | |
 | [Windsurf](https://windsurf.com/) | ide | Acquired by Cognition | |
